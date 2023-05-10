@@ -1,5 +1,5 @@
 # Recommender System
-Unsupervised Learning Project
+## Unsupervised Learning Project
 
 Two Solutions:
 Solution A: Collaborative Filtering Recommendation model
