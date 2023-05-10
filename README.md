@@ -2,7 +2,7 @@
 ## Unsupervised Learning Project
 
 Two Solutions:
-Solution A: Collaborative Filtering Recommendation model
+* Solution A: Collaborative Filtering Recommendation model
 Solution B: Neural Collaborative Filtering - https://arxiv.org/abs/1708.05031
 
 In this notebook, we will focus on providing a basic recommendation system by suggesting items that are most similar to a particular item. 
